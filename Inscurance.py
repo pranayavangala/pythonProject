@@ -13,7 +13,8 @@ pamar = 0
 wdljan=0
 wdlfeb=0
 wdlmar=0
-
+#this change for git
+ha=0
 ha1jan =0
 ha1feb = 0
 ha1mar =0
